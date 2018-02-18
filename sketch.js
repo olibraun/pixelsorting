@@ -1,7 +1,7 @@
 let img;
 let sorted;
 function preload() {
-  img = loadImage('./flower.jpg')
+  img = loadImage('./sunflower.jpg')
 }
 function setup() {
   createCanvas(800,200);
